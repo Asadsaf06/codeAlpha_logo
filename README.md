@@ -1,1 +1,3 @@
-# codeAlpha_logo
+# Code Alpha Logo
+
+![logo](./logo.jpg)
